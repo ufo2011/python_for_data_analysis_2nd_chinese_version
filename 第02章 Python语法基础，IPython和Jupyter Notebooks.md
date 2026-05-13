@@ -1,4 +1,16 @@
-<a href="https://bestproxy.com/?keyword=m2nto9ln">
+<p align=center>
+<a href="https://www.rapidproxy.io/?ref=iams">
+    <img src="https://github.com/user-attachments/assets/16d12f5b-f4b2-40f2-9a73-0b8427c90835" width=400px>
+</a>
+</p>
+
+RapidProxy 提供全球 9000万+ 真实住宅 IP，支持动态/静态住宅代理，覆盖 190+ 国家与地区。高匿名、低封禁、稳定高速，流量长期有效不过期，轻松应对验证码、访问限制与平台风控。静态住宅代理支持固定 ISP IP 与稳定网络身份，可有效降低多账号关联风险。立即免费测试吧！
+
+<p align=center>
+    <a href="https://www.rapidproxy.io/?ref=iams">https://www.rapidproxy.io</a>
+</p>
+
+<!-- <a href="https://bestproxy.com/?keyword=m2nto9ln">
     <img src="https://github.com/user-attachments/assets/7d02450d-9f3f-42ae-9372-5a2dadd0418f">
 </a>
 
@@ -6,7 +18,7 @@ BestProxy全球独享专属资源池，优选海外195+国家/地区高质量住
 
 <p align=center>
     <a href="https://bestproxy.com/?keyword=m2nto9ln">https://bestproxy.com/</a>
-</p>
+</p> -->
 
 ***
 
